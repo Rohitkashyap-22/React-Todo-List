@@ -18,6 +18,10 @@ This is my first mini project built using React. I made this project while learn
 - CSS
 - Vite
 
+## Screenshot
+
+![Todo List App](src\img.png)
+
 ## What I Learned
 
 While building this project, I got hands-on experience with some basic React concepts:

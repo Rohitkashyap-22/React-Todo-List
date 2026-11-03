@@ -20,7 +20,7 @@ This is my first mini project built using React. I made this project while learn
 
 ## Screenshot
 
-![Todo List App](src\img.png)
+![Todo List App](./src/img.png)
 
 ## What I Learned
 
